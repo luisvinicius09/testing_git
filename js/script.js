@@ -8,7 +8,7 @@ let foundStats = null;
 let input = null;
 
 let button = null;
-
+// This is a global variable
 searches = []
 
 const placeholder = 'Nothing to show here !'
